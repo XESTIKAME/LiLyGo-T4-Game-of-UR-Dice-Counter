@@ -25,8 +25,8 @@ bool button37Pressed = false;
 bool button39Pressed = false;
 
 // WIFI CREDENTIALS
-const char *ssid = "Gspot2.0";
-const char *password = "3940518389651270";
+const char *ssid = "Your WiFi SSID Goes Here";
+const char *password = "Your WiFi Password Goes Here";
 
 // DEFINE NTP CLIENT
 WiFiUDP ntpUDP;
